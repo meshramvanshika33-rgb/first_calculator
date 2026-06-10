@@ -28,8 +28,9 @@ https://first-calculator-5.onrender.com
 
  📸 Screenshots
 
+<img width="432" height="607" alt="Screenshot 2026-06-10 130638" src="https://github.com/user-attachments/assets/7d09fd10-0bd9-48b4-9171-2028fe233277" />
+
 <img width="423" height="601" alt="Screenshot 2026-06-10 130734" src="https://github.com/user-attachments/assets/3a9584a0-2638-4662-9a41-8c7abe791f61" />
-<img width="423" height="601" alt="Screenshot 2026-06-10 130734" src="https://github.com/user-attachments/assets/1c748aae-d9ea-462c-be86-72525dfe3a7c" />
 
 
 
@@ -89,6 +90,6 @@ http://127.0.0.1:5000
 
 ## 👩‍💻 Author
 
-**Your Name**
+Vanshika Meshram
 
 GitHub: PASTE_YOUR_GITHUB_PROFILE_LINK_HERE
