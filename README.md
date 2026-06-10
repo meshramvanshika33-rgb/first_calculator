@@ -86,10 +86,9 @@ python app.py
 http://127.0.0.1:5000
 ```
 
----
-
-## 👩‍💻 Author
+👩‍💻 Author
 
 Vanshika Meshram
 
-GitHub: PASTE_YOUR_GITHUB_PROFILE_LINK_HERE
+Github:meshramvanshika33-rgb
+
