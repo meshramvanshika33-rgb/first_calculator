@@ -58,13 +58,13 @@ calculator-project/
 1. Clone the repository
 
 ```bash
-git clone PASTE_YOUR_GITHUB_REPO_LINK_HERE
+https://github.com/meshramvanshika33-rgb/first_calculator.git
 ```
 
 2. Navigate to the project directory
 
 ```bash
-cd repository-name
+cd first_calculator
 ```
 
 3. Install dependencies
