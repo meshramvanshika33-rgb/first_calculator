@@ -2,7 +2,6 @@
 
 A simple and responsive Basic Calculator built using **Python**, **Flask**, **HTML**, and **CSS**. This project performs basic arithmetic operations through a clean and user-friendly web interface.
 
-🚀 Live Demo
 
 🔗 **Live Website:**
 https://first-calculator-5.onrender.com
