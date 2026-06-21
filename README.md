@@ -48,7 +48,6 @@ calculator-project/
 │   └── style.css
 │
 └── screenshots/
-    ├── home.png
     └── result.png
     
 
