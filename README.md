@@ -28,9 +28,8 @@ https://first-calculator-5.onrender.com
 
  📸 Screenshots
 
-<img width="432" height="607" alt="Screenshot 2026-06-10 130638" src="https://github.com/user-attachments/assets/7d09fd10-0bd9-48b4-9171-2028fe233277" />
+<img width="453" height="486" alt="Screenshot 2026-06-22 050156" src="https://github.com/user-attachments/assets/2481172b-1b38-41ab-a68b-4be5a82b016f" />
 
-<img width="423" height="601" alt="Screenshot 2026-06-10 130734" src="https://github.com/user-attachments/assets/3a9584a0-2638-4662-9a41-8c7abe791f61" />
 
 
 
